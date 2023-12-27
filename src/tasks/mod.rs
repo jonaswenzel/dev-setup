@@ -1,3 +1,4 @@
+pub mod dotnet;
 pub mod lazyvim;
 pub mod neovim;
 pub mod nvm;
